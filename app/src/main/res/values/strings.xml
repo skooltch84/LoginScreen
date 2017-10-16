@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">LoginScreen</string>
+    <string name="app_name">Custom Login</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="sign_in_facebook">Facebook Sign In</string>
+    <string name="sign_in_google">Google Sign In</string>
+
+
 </resources>
